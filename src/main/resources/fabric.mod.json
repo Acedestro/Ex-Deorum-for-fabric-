@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "exdeorum",
+  "version": "${version}",
+  "name": "Ex Deorum",
+  "description": "A Fabric port of Ex Deorum, a sky block style mod for resource generation",
+  "authors": [
+    "Your Name"
+  ],
+  "contact": {
+    "homepage": "https://github.com/YourUsername/ex_deorum_fabric",
+    "sources": "https://github.com/YourUsername/ex_deorum_fabric",
+    "issues": "https://github.com/YourUsername/ex_deorum_fabric/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/exdeorum/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.exdeorum.ExDeorum"
+    ],
+    "client": [
+      "net.fabricmc.exdeorum.ExDeorumClient"
+    ]
+  },
+  "mixins": [
+    "exdeorum.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.4",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

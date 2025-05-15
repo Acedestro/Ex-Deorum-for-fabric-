@@ -1,0 +1,52 @@
+{
+  "itemGroup.exdeorum.main": "Ex Deorum",
+  
+  "block.exdeorum.oak_barrel": "Oak Barrel",
+  "block.exdeorum.spruce_barrel": "Spruce Barrel",
+  "block.exdeorum.birch_barrel": "Birch Barrel",
+  "block.exdeorum.jungle_barrel": "Jungle Barrel",
+  "block.exdeorum.acacia_barrel": "Acacia Barrel",
+  "block.exdeorum.dark_oak_barrel": "Dark Oak Barrel",
+  "block.exdeorum.mangrove_barrel": "Mangrove Barrel",
+  "block.exdeorum.cherry_barrel": "Cherry Barrel",
+  "block.exdeorum.crimson_barrel": "Crimson Barrel",
+  "block.exdeorum.warped_barrel": "Warped Barrel",
+  
+  "block.exdeorum.oak_sieve": "Oak Sieve",
+  "block.exdeorum.spruce_sieve": "Spruce Sieve",
+  "block.exdeorum.birch_sieve": "Birch Sieve",
+  "block.exdeorum.jungle_sieve": "Jungle Sieve",
+  
+  "block.exdeorum.oak_crucible": "Oak Crucible",
+  "block.exdeorum.spruce_crucible": "Spruce Crucible",
+  "block.exdeorum.porcelain_crucible": "Porcelain Crucible",
+  "block.exdeorum.unfired_porcelain_crucible": "Unfired Porcelain Crucible",
+  
+  "item.exdeorum.wooden_hammer": "Wooden Hammer",
+  "item.exdeorum.stone_hammer": "Stone Hammer",
+  "item.exdeorum.iron_hammer": "Iron Hammer",
+  "item.exdeorum.golden_hammer": "Golden Hammer",
+  "item.exdeorum.diamond_hammer": "Diamond Hammer",
+  "item.exdeorum.netherite_hammer": "Netherite Hammer",
+  
+  "item.exdeorum.compressed_wooden_hammer": "Compressed Wooden Hammer",
+  "item.exdeorum.compressed_stone_hammer": "Compressed Stone Hammer",
+  
+  "item.exdeorum.wooden_crook": "Wooden Crook",
+  "item.exdeorum.bone_crook": "Bone Crook",
+  
+  "item.exdeorum.string_mesh": "String Mesh",
+  "item.exdeorum.flint_mesh": "Flint Mesh",
+  "item.exdeorum.iron_mesh": "Iron Mesh",
+  "item.exdeorum.golden_mesh": "Golden Mesh",
+  "item.exdeorum.diamond_mesh": "Diamond Mesh",
+  "item.exdeorum.netherite_mesh": "Netherite Mesh",
+  
+  "item.exdeorum.silkworm": "Silkworm",
+  "item.exdeorum.porcelain_clay": "Porcelain Clay",
+  
+  "item.exdeorum.stone_pebble": "Stone Pebble",
+  "item.exdeorum.granite_pebble": "Granite Pebble",
+  "item.exdeorum.diorite_pebble": "Diorite Pebble",
+  "item.exdeorum.andesite_pebble": "Andesite Pebble"
+}
